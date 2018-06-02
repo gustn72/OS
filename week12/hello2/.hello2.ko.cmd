@@ -1,0 +1,1 @@
+cmd_/home/joseph/OS/week12/hello2/hello2.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/joseph/OS/week12/hello2/hello2.ko /home/joseph/OS/week12/hello2/hello2.o /home/joseph/OS/week12/hello2/hello2.mod.o ;  true
